@@ -104,8 +104,8 @@ Prime loan rate is the strongest and most statistically significant predictor of
 ---
 
 ## Reproducibility Checklist
-- [ ] Script runs end-to-end without errors
-- [ ] Regression output saved to `Results/regression_div12m_me.txt`, `regression_prime_rate.txt`, `regression_ffo_at_reit.txt`
-- [ ] Scatter plots saved to `Results/scatter_div12m_me.png`, `scatter_prime_rate.png`, `scatter_ffo_at_reit.png`
-- [ ] Report accurately reflects regression results
-- [ ] All interpretations are in economic units (not just statistical jargon)
+- [x] Script runs end-to-end without errors
+- [x] Regression output saved to `Results/regression_div12m_me.txt`, `regression_prime_rate.txt`, `regression_ffo_at_reit.txt`
+- [x] Scatter plots saved to `Results/scatter_div12m_me.png`, `scatter_prime_rate.png`, `scatter_ffo_at_reit.png`
+- [x] Report accurately reflects regression results
+- [x] All interpretations are in economic units (not just statistical jargon)
